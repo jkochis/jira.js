@@ -115,4 +115,4 @@ Reads always come back as a document, never as a string.
 - [Error Handling](./error-handling) — typed errors and their predicates
 - [Response Validation](./response-validation) — what happens when Jira sends something unexpected
 - [Tree-Shaking](./tree-shaking) — keeping the bundle small
-- [API Reference](/api/) — every endpoint, parameter and model
+- [API Reference](/api) — every endpoint, parameter and model
